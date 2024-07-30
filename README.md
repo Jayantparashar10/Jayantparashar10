@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Jayantparashar10
-- 👀 I’m interested in Machine Learning and Artificial Intelligence 
-- 🌱 I’m currently learning Deep Learning and C++.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me parasharjayant10@gamil.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not afraid of ai to take my job.
+# 👋 Hi there! I'm Jayant Parashar
 
-<!---
-Jayantparashar10/Jayantparashar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 About Me
+- 🖥️ B.Tech Computer Science Engineering student (2nd year)
+- 🧠 Passionate about AI/ML, Computer Vision, and Mobile Development
+- 🌱 Always learning and exploring new technologies
+
+## 🔭 Current Focus
+- Artificial Intelligence and Machine Learning
+- Computer Vision applications
+- Mobile app development
+
+## 💻 Tech Stack
+- Languages: Python, Java, C++
+- AI/ML: TensorFlow, PyTorch, scikit-learn
+- Computer Vision: OpenCV
+- Mobile Dev: Kotlin, Android studio
+- Version Control: Git
+
+## 📚 Learning Goals
+- Deep dive into advanced ML algorithms
+- Explore edge computing for AI applications
+- Develop cross-platform mobile apps
+
+## 🤝 Let's Connect!
+- [LinkedIn]: https://www.linkedin.com/in/jayant-parashar-ai-ml
+- [Twitter]: @Jayantparashar5
+- [Email]: parasharjayant10@gmail.com
+
+## 💼 Open to Collaborations
+I'm always excited to work on innovative projects. If you have any ideas or want to collaborate, feel free to reach out!
