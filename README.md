@@ -23,9 +23,9 @@
 - Develop cross-platform mobile apps
 
 ## 🤝 Let's Connect!
-- [LinkedIn]: https://www.linkedin.com/in/jayant-parashar-ai-ml
-- [Twitter]: @Jayantparashar5
-- [Email]: parasharjayant10@gmail.com
+- [LinkedIn] https://www.linkedin.com/in/jayant-parashar-ai-ml
+- [Twitter] @Jayantparashar5
+- [Email] parasharjayant10@gmail.com
 
 ## 💼 Open to Collaborations
 I'm always excited to work on innovative projects. If you have any ideas or want to collaborate, feel free to reach out!
