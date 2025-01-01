@@ -24,7 +24,7 @@
 
 ## 🤝 Let's Connect!
 - [LinkedIn] https://www.linkedin.com/in/jayant-parashar-ai-ml
-- [Twitter] @Jayantparashar5
+- [Twitter] https://x.com/Jayantparashar5
 - [Email] parasharjayant10@gmail.com
 
 ## 💼 Open to Collaborations
