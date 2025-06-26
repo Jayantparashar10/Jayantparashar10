@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Jayant Parashar
 
 ## 🎓 About Me
-- 🖥️ B.Tech Computer Science Engineering student (2nd year)
+- 🖥️ B.Tech Computer Science Engineering student
 - 🧠 Passionate about AI/ML, Computer Vision, and Mobile Development
 - 🌱 Always learning and exploring new technologies
 
