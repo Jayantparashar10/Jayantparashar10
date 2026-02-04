@@ -2,7 +2,7 @@
 
 ## About Me
 - B.Tech Computer Science Engineering student
-- Passionate about AI/ML, Computer Vision, and Mobile Development
+- Passionate about AI/ML, and Mobile Development
 - Always learning and exploring new technologies
 
 ##  Current Focus
@@ -11,10 +11,9 @@
 - Mobile app development
 
 ##  Tech Stack
-- Languages: Python, Java, C++
-- AI/ML: TensorFlow, PyTorch, scikit-learn
-- Computer Vision: OpenCV
-- Mobile Dev: Kotlin, Android studio
+- Languages: Python, C++
+- AI/ML: PyTorch, scikit-learn, Transformers, ViT
+- Mobile Dev: iOS dev, SWIFT
 - Version Control: Git
 
 ##  Learning Goals
@@ -24,7 +23,7 @@
 
 ##  Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jayant-parashar-ai-ml)
-- [Twitter](https://x.com/Jayantparashar5)
+- [Twitter](https://x.com/JayantParashar_)
 - [Email](parasharjayant10@gmail.com)
 
 ##  Open to Collaborations
