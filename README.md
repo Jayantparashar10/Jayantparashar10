@@ -1,8 +1,7 @@
 # Hi there! I'm Jayant Parashar
 
 ## About Me
-- B.Tech Computer Science Engineering student
-- Passionate about AI/ML
+- B.Tech Computer Science student
 - Always learning and exploring new technologies
 
 ##  Current Focus
